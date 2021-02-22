@@ -16,7 +16,7 @@ const Home = () => {
   };
 
   return (
-    <div className="container shadow-xs py-6 lg:px-20">
+    <div className="shadow-xs py-6 lg:px-20">
       <div className="sm:flex py-4 w-full flex-grow flex w-auto mt-4">
         <div
           className="mt-3 sm:mx-2 sm:mt-0 hover:bg-blue-300 text-lg cursor-pointer	bg-blue-500 p-2 text-white rounded-lg"
